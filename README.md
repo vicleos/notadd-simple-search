@@ -1,6 +1,10 @@
 # notadd-simple-search
 基于 Notadd 的简单搜索插件
 
+[![Build Status](https://travis-ci.org/vicleos/notadd-simple-search.svg?branch=master)](https://travis-ci.org/vicleos/notadd-simple-search)
+![Packagist](https://img.shields.io/packagist/v/vicleos/notadd-simple-search.svg) 
+![Downloads](https://img.shields.io/packagist/dt/vicleos/notadd-simple-search.svg)
+
 ## 安装
 
 安装前，请确保 Notadd 已经完成安装。
