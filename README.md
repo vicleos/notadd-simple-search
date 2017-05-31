@@ -3,7 +3,6 @@
 
 [![Build Status](https://travis-ci.org/vicleos/notadd-simple-search.svg?branch=master)](https://travis-ci.org/vicleos/notadd-simple-search)
 ![Packagist](https://img.shields.io/packagist/v/vicleos/notadd-simple-search.svg) 
-![Downloads](https://img.shields.io/packagist/dt/vicleos/notadd-simple-search.svg)
 
 ## 安装
 
